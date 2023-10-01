@@ -6,21 +6,151 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://https://www.python.org/" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="git" width="40" height="40"/> </a>
- <a href="https://https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="40" height="40"/> </a>
-
+<section class="_Skills_a5xh4_3" id="skills">
+                        <div class="_Decoration_5mar9_1" style="top: 60px; left: -100px;"></div>
+                        <div class="_Decoration_5mar9_1" style="top: 60px; left: -40px;"></div>
+                        <div class="_Decoration_5mar9_1" style="bottom: 60px; right: -100px;"></div>
+                        <div class="_Decoration_5mar9_1" style="bottom: 60px; right: -40px;"></div>
+                        <h2 class="_Title_a5xh4_50">Skills</h2>
+                        <div class="_Skills__container_a5xh4_18">
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/typescript.png" alt="TypeScript">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">TypeScript</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/next.png" alt="Next.js">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Next.js</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/react.png" alt="React">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">React</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/angular.png" alt="Angular">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Angular</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/svelte.png" alt="Svelte">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Svelte</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/mysql.png" alt="MySQL">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">MySQL</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/prisma.png" alt="Prisma">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Prisma</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/drizzle.png" alt="Drizzle">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Drizzle</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/php.png" alt="PHP">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">PHP</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/laravel.png" alt="Laravel">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Laravel</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/python.png" alt="Python">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Python</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/linux.png" alt="Linux">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Linux</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/docker.png" alt="Docker">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Docker</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/nginx.png" alt="Nginx">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Nginx</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/apache.png" alt="Apache">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Apache</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/git.png" alt="Git">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Git</div>
+                            </div>
+                            <div class="_Skill_m64z7_1">
+                                <div class="_Skill__image_m64z7_9">
+                                    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+                                        <img src="PORTFOLIO%20Juli%C3%A1n%20Lann%C3%B3o_files/github-actions.png" alt="Github Actions">
+                                    </a>
+                                </div>
+                                <div class="_Skill__name_m64z7_27">Github Actions</div>
+                            </div>
+                        </div>
+                    </section>
  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
