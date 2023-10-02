@@ -56,9 +56,9 @@ Certainly! Here are shorter versions of the sections you mentioned:
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/ibraheem-areeda): Let's connect and collaborate on exciting projects.
+- [LinkedIn](https://www.linkedin.com/in/ibraheem-areeda): Let's connect and collaborate on exciting projects.
 
-- [GitHub](www.github.com/ibraheem-areeda): Explore my repositories and contributions.
+- [GitHub](https://www.github.com/ibraheem-areeda?tab=repositories): Explore my repositories and contributions.
 
 ### 📫 Contact Information
 
