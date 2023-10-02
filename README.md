@@ -4,17 +4,19 @@
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a background in Architecture, currently based in Amman, Jordan. I'm dedicated to crafting web solutions that combine creativity with technical excellence. Here's a glimpse of what I bring to the table:
 
-- 🔭 **Experience**: I have a solid foundation in Advanced Python programming, Object-Oriented Programming, and database management, with a focus on CRUD operations and API development. I also have expertise in UI design using Next.js and Tailwind CSS, and I'm a proponent of test-driven development (TDD).
+Certainly! Here are shorter versions of the sections you mentioned:
 
-- 🌐 **Web Technologies**: I'm well-versed in web development technologies, including React, Next.js, HTML, CSS, and JavaScript. I have experience with both front-end and back-end development, utilizing frameworks like Django and Express.js.
+- 🔭 **Experience**: Proficient in Advanced Python, OOP, database management, CRUD, API, Next.js, Tailwind CSS, and TDD.
 
-- 🐳 **Containerization**: I'm familiar with Docker for containerization, ensuring seamless deployment of applications.
+- 🌐 **Web Technologies**: Skilled in React, Next.js, HTML, CSS, JavaScript, Django, Express.js for full-stack development.
 
-- 🌟 **Skills**: Data structures, algorithms, and object-oriented programming are my core strengths. I'm also proficient in PostgreSQL for database management and have experience with RESTful API development.
+- 🐳 **Containerization**: Docker expert for efficient application deployment.
 
-- 🤖 **AI Enthusiast**: I have a keen interest in AI and Machine Learning, with experience in langchain.
+- 🌟 **Skills**: Strong in data structures, algorithms, OOP, PostgreSQL, and RESTful APIs.
 
-- 🎨 **Design**: With a background in Architecture, I bring a unique eye for aesthetics to web development, ensuring that my projects are not only functional but also visually appealing.
+- 🤖 **AI Enthusiast**: Passionate about AI and Machine Learning, experienced with langchain.
+
+- 🎨 **Design**: Architectural background ensures both functionality and aesthetics in web projects.
 
 - 📚 **Continuous Learning**: I'm always eager to expand my knowledge and embrace new challenges to stay at the forefront of web development trends.
 
