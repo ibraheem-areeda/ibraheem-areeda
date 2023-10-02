@@ -1,11 +1,23 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Ibraheem Areeda, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+# Hi there, I'm Ibraheem Areeda 👋
+
+## Full-Stack Developer | Architect | Python Enthusiast
+
+Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a background in Architecture, currently based in Amman, Jordan. I'm dedicated to crafting web solutions that combine creativity with technical excellence. Here's a glimpse of what I bring to the table:
+
+- 🔭 **Experience**: I have a solid foundation in Advanced Python programming, Object-Oriented Programming, and database management, with a focus on CRUD operations and API development. I also have expertise in UI design using Next.js and Tailwind CSS, and I'm a proponent of test-driven development (TDD).
+
+- 🌐 **Web Technologies**: I'm well-versed in web development technologies, including React, Next.js, HTML, CSS, and JavaScript. I have experience with both front-end and back-end development, utilizing frameworks like Django and Express.js.
+
+- 🐳 **Containerization**: I'm familiar with Docker for containerization, ensuring seamless deployment of applications.
+
+- 🌟 **Skills**: Data structures, algorithms, and object-oriented programming are my core strengths. I'm also proficient in PostgreSQL for database management and have experience with RESTful API development.
+
+- 🤖 **AI Enthusiast**: I have a keen interest in AI and Machine Learning, with experience in langchain.
+
+- 🎨 **Design**: With a background in Architecture, I bring a unique eye for aesthetics to web development, ensuring that my projects are not only functional but also visually appealing.
+
+- 📚 **Continuous Learning**: I'm always eager to expand my knowledge and embrace new challenges to stay at the forefront of web development trends.
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -25,22 +37,36 @@
 <a href="https://jwt.io/" target="_blank"> <img src="https://seeklogo.com/images/J/JWT-logo-6EF166A3CC-seeklogo.com.png" alt="git" width="40" height="40"/> </a>
 <a href="https://www.langchain.com/" target="_blank"> <img src="https://blog.langchain.dev/content/images/2023/09/LangChain_Logo-1.png" alt="git" width="40" height="40"/> </a>
 
- 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ibraheem_areeda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibraheem-areeda/)](https://www.linkedin.com/in/ibraheem-areeda/)
 
-![Visitor Count](https://profile-counter.glitch.me/ibraheem-areeda/count.svg)
+
+
+### 🚀 Check out my Projects
+
+- [AI Hukoomi Bot](https://www.youtube.com/watch?v=u4mkyOLRas8): An innovative AI-powered chatbot revolutionizing government transactions in Jordan.
+
+- [Personal Portfolio](https://ibraheem-areeda.github.io/Personal-Portfolio/): A showcase of my personal projects and technical skills.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibraheem-areeda)](https://git.io/streak-stats)
+
+### 🌐 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/ibraheem-areeda): Let's connect and collaborate on exciting projects.
+
+- [GitHub](www.github.com/ibraheem-areeda): Explore my repositories and contributions.
+
+### 📫 Contact Information
+
+- 📧 Email: ibraheem.areeda@gmail.com
+
+- 📱 Phone: 0795017656
+
+### 🌟 Let's Collaborate and Innovate! 🌟
+
+
 
 
 
