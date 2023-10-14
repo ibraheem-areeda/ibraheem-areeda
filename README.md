@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a backg
 
 - [LinkedIn](https://www.linkedin.com/in/ibraheem-areeda/): Let's connect and collaborate on exciting projects.
 
-- [GitHub](https://github.com/ibraheem-areeda?tab=repositories): Explore my repositories and contributions
+- [GitHub](https://github.com/ibraheem-areeda?tab=repositories): Explore my repositories and contributions.
 
 ### 📫 Contact Information
 
