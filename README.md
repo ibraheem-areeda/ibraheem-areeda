@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | Architect | Python Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a background in Architecture, currently based in Amman, Jordan. I'm dedicated to crafting web solutions that combine creativity with technical excellence. Here's a glimpse of what I bring to the table:
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a background in Architecture, currently based in Amman, Jordan. I'm dedicated to crafting web solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
 
 - 🔭 **Experience**: Proficient in Advanced Python, database management, CRUD, API, Next.js, Tailwind CSS, and TDD.
 
