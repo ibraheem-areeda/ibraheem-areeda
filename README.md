@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a backg
 
 - 🔭 **Experience**: Proficient in Advanced Python, database management, CRUD, API, Next.js, Tailwind CSS, and TDD.
 
-- 🌐 **Web Technologies**: Skilled in React, Next.js, HTML, CSS, JavaScript, Django, Express.js for full-stack development.
+- 🌐 **Web Technologies**: Skilled in React, Next.js, HTML, CSS, JavaScript, Django, Express.js for full-stack development..
 
 - 🐳 **Containerization**: Docker expert for efficient application deployment.
 
