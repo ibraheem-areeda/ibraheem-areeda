@@ -60,9 +60,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a backg
 
 ### 📫 Contact Information
 
-- 📧 Email: ibraheem.areeda@gmail.com
+- 📧 Email:
 
-- 📱 Phone: 0795017656
+- 📱 Phone: 
 
 ### 🌟 Let's Collaborate and Innovate! 🌟
 
